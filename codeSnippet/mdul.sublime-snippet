@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+        <![CDATA[
+* $1
+* $2
+* $3
+]]>
+    </content>
+    <tabTrigger>mdul</tabTrigger>
+    <scope>text.html.markdown.multimarkdown, text.html.markdown</scope>
+    <description>markdown-unorder-list</description>
+</snippet>

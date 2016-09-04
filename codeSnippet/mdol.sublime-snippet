@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+        <![CDATA[
+1. $1
+2. $2
+3. $3
+]]>
+    </content>
+    <tabTrigger>mdol</tabTrigger>
+    <scope>text.html.markdown.multimarkdown, text.html.markdown</scope>
+    <description>Insert Order List</description>
+</snippet>

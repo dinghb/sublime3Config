@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+        <![CDATA[
+| ${1:title} | ${2:title} | ${3:title}  |
+|------------|------------|-------------|
+| ${4:colum1}| ${5:colum2}| ${6:colum3} |
+]]>
+    </content>
+    <tabTrigger>mdtable</tabTrigger>
+    <scope>text.html.markdown.multimarkdown, text.html.markdown</scope>
+    <description>Insert Table</description>
+</snippet>

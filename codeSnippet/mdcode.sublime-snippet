@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+        <![CDATA[
+```${1:javascript}
+$2
+```
+]]>
+    </content>
+    <tabTrigger>mdcode</tabTrigger>
+    <scope>text.html.markdown.multimarkdown, text.html.markdown</scope>
+    <description>Insert Code</description>
+</snippet>
